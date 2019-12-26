@@ -1,0 +1,25 @@
+{
+    "name": "ace-mode-rust",
+    "version": "1.0.0",
+    "description": "Ace Mode Rust",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/blockchain-it-hr/ace-mode-rust.git"
+    },
+    "keywords": [
+      "rust",
+      "ace",
+      "mode",
+      "brace"
+    ],
+    "author": "Edi Sinovcic",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/blockchain-it-hr/ace-mode-rust/issues"
+    },
+    "homepage": "https://github.com/blockchain-it-hr/ace-mode-rust#readme"
+  }
